@@ -17,6 +17,7 @@ The graph's diameter is 17 steps which means that the network, while expansive, 
 The combination of these findings supports the small-world phenomenon typical of many social networks where despite large sizes, the networks maintain short path lengths and high clustering. This structure not only enhances the resilience of the network against random user drop-offs but also exposes potential vulnerabilities to targeted disruptions.
 
 How to Run
+
 You can clone this repository using git clonehttps://github.com/araba13/210_final_project/.git then navigate to the directory using cd final_project and finally I would suggest using cargo run – release to compiles the project and executes it.
 
 
